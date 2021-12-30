@@ -12,6 +12,7 @@ title/.*一键访问国外网站/
 title/^.*头条.*$/
 title/^.*资讯站$/
 title/^.*经验网$/
+title/^.*跳墙网$/
 title/^.*百度.*$/
 title/^.*西瓜视频.*$/
 *://*.kn1f4.com/*
@@ -21,3 +22,5 @@ title/^.*西瓜视频.*$/
 *://*.wemp.app/*
 *://*.j5354.com/*
 *://*.xkhscw.com/*
+*://*.csdn.net/*
+*://*.wxkol.com/*
